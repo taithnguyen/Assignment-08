@@ -29,7 +29,9 @@ This project aims to support users in their psychological needs. More specifical
 My project revolves around the effects of journaling on mental health of users. However, to understand what kind of effects journaling can and should have on users' mental health, it is necesary to understand the user itself. Therefore, the purpose of UX storytelling in my project in particular is to get within the mind of the user and understand how they may think and feel about certain aspects of journaling and the resulting effects. It also gives an idea for me to understand how to make journaling easiest and most effective for the targeting users. Below, I have shown an example of a persona, empathy map, and journey map for the task of creating a daily journal.
 
 <img src=”Screenshot23.png” height=”300px”> 
+
 <img src=”Screenshot24.png” height=”300px”> 
+
 <img src=”Screenshot25.png” height=”300px”> 
 
 See all personas, empathy maps, and journey maps [here](https://github.com/taithnguyen/Assignment-05/blob/main/README.md).
