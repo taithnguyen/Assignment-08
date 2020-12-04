@@ -42,6 +42,10 @@ The main purpose of this design was simplicity and creating a certain mood that 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FxhJP5K7QEr330aLit9wzji%2FDH-150-Prototype%3Fnode-id%3D55%253A157%26scaling%3Dmin-zoom" allowfullscreen></iframe>
 
 ### Optional evaluation and revision history 
-Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
+Summary of findings: Overall, feedback was positive and the few suggestions have been incorporated in the revisions section below. My goal of a simple interface seemed to be achieved. The main suggestions were regarding a few simple fixes that would help the user fix their errors and navigate easier. Since the design is already extremely simplistic, these suggestions were very helpful as any functional fixes would be very impactful.
+
+Revisions: A note of a few of the revisions made after the impression test and cognitive walkthrough: the addition of the home button to each screen during the creation of the journal in order to minimize steps to return home, addition of a slider bar to accomodate for half hours of sleep (ie: 7hr30 of sleep), creation of registering task in order to set personalization and goals.
+
+Full evaluation/impression test/cognitive walkthrough can be found [here](https://github.com/taithnguyen/Assignment-07/blob/main/README.md).
 ### Pitch video 
 ### Conclusion: what did you learn throughout the process?
