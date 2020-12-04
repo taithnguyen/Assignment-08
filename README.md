@@ -46,6 +46,7 @@ Summary of findings: Overall, feedback was positive and the few suggestions have
 
 Revisions: A note of a few of the revisions made after the impression test and cognitive walkthrough: the addition of the home button to each screen during the creation of the journal in order to minimize steps to return home, addition of a slider bar to accomodate for half hours of sleep (ie: 7hr30 of sleep), creation of registering task in order to set personalization and goals.
 
-Full evaluation/impression test/cognitive walkthrough can be found [here](https://github.com/taithnguyen/Assignment-07/blob/main/README.md).
+Full evaluation/impression test/cognitive walkthrough/accessibility test can be found [here](https://github.com/taithnguyen/Assignment-07/blob/main/README.md).
 ### Pitch video 
 ### Conclusion: what did you learn throughout the process?
+Throughout this entire process, I learned a lot about the design process as a whole. I had created high fidelity prototypes before but had very little experience with the rest of the process. Viewing the process through the lens of accessibility for users and embracing their thoughts and needs was a transformative process for me. Creating surveys, usability tests, personas, and empathy maps are skills that I will utilize in the future. Some key takeaways are the importance of listening to a variety of users from the start, considering accessibility factors such as color contrast and heuristics, and designing with certain personas in mind. 
