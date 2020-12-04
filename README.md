@@ -14,8 +14,8 @@ Jour | Tangerine
 ![Jour](Jour.png)  | ![Tangerine](Tangerine.png)
 <table>
 <tr>
-<td> <img src=”https://github.com/taithnguyen/Assignment-01/blob/main/Jour.png” height=”300px”> </td>
-<td> <img src=”https://github.com/taithnguyen/Assignment-01/blob/main/Tangerine.png” height=”300px”> </td>
+<td> <img src=”Jour.png” height=”300px”> </td>
+<td> <img src=”Tangerine.png” height=”300px”> </td>
 </tr>
 </table>
 
