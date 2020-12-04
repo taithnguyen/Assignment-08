@@ -8,6 +8,7 @@ What is the issue and Why do you think it is important to resolve that issue by 
 
 ### Competitor analysis [assignment01 & 02]:
 This is a heuristic analysis of journal/self care tracking apps through the lens of middle aged women. This will be done by assessing two mobile apps, Jour and Tangerine and comment on what has been done well and what aspects can be improved upon. My overall project that builds off this analysis will be the creation of a simple, easy to use journaling/tracking app that improves mental health and productivity for middle aged women. [read more…](https://github.com/taithnguyen/Assignment-01/blob/main/README.md)
+<img src=”https://github.com/taithnguyen/Assignment-01/blob/main/Jour.png” height=”300px”> 
 ### User research [contextual inquiry, assignment04]:
 Summary and link to your assignment folder
 ### UX storytelling [persona+scenario, assignment05]
