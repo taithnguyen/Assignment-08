@@ -1,5 +1,5 @@
 # Digital Diary
-## Tai Nguyen 
+## Tai Nguyen  
   
 ### Introduction
 This app is a way to simplify journaling as a digital process and have qualitative stats to show users about the potential benefits. It is a means of translating a typical journal or diary into a digital diary that provides feedback to users. 
