@@ -18,7 +18,11 @@ The Tangerine mobile application is used as a self-care journaling app that help
 ### User research: contextual inquiry
 This project aims to support users in their psychological needs. More specifically, this project hopes to give users a reliable way to practice proper journaling and habit tracking in order to maintain health habits in terms of mental and physical activity. As a result of user research, I learned a lot about my own reasoning for creating this project as well as the user's more broad and holistic thoughts on the project as a whole. Some insights that I gleaned from the participant were the overall lack of knowledge about journaling and its potential mental and physical health benefits, the kinds of habits that general user's would like to track, and the potential gains that users predict from beginning journaling. [Read more…](https://github.com/taithnguyen/Assignment-04/blob/main/README.md)
 ### UX storytelling [persona+scenario, assignment05]
-Summary and link to your assignment folder
+My project revolves around the effects of journaling on mental health of users. However, to understand what kind of effects journaling can and should have on users' mental health, it is necesary to understand the user itself. Therefore, the purpose of UX storytelling in my project in particular is to get within the mind of the user and understand how they may think and feel about certain aspects of journaling and the resulting effects. It also gives an idea for me to understand how to make journaling easiest and most effective for the targeting users. Below, I have shown an example of a persona, empathy map, and journey map for the task of creating a daily journal.
+![Persona](https://github.com/taithnguyen/Assignment-05/blob/main/Screenshot23.png)
+![Empathy Map](https://github.com/taithnguyen/Assignment-05/blob/main/Screenshot24.png)
+![Journey Map](https://github.com/taithnguyen/Assignment-05/blob/main/Screenshot25.png)
+See all personas, empathy maps, and journey maps [Here](https://github.com/taithnguyen/Assignment-05/blob/main/README.md)
 ### Wireframe and graphic design element variation [assignment06 + part of 07]
 ### Low-fidelity prototype (wireflow, assignment06)
 Summary and link to the sketches (may contains the multiple versions and evaluation history)
