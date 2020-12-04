@@ -22,12 +22,15 @@ My project revolves around the effects of journaling on mental health of users. 
 ![Persona](https://github.com/taithnguyen/Assignment-05/blob/main/Screenshot23.png)
 ![Empathy Map](https://github.com/taithnguyen/Assignment-05/blob/main/Screenshot24.png)
 ![Journey Map](https://github.com/taithnguyen/Assignment-05/blob/main/Screenshot25.png)
-See all personas, empathy maps, and journey maps [Here](https://github.com/taithnguyen/Assignment-05/blob/main/README.md)
+See all personas, empathy maps, and journey maps [here](https://github.com/taithnguyen/Assignment-05/blob/main/README.md).
 ### Wireframe and graphic design element variation [assignment06 + part of 07]
-### Low-fidelity prototype (wireflow, assignment06)
-Summary and link to the sketches (may contains the multiple versions and evaluation history)
-### High-fidelity prototype (functional/interactive prototype, assignment08)
-Summary statement and link to or an embedded prototype
+### Low-fidelity prototype 
+The purpose of this low fidelity prototype is to test how specific users will interact with the features and flow of the app as expected. The most important part is to gain feedback on whether or not the flow of each task is intuitive and clear and thus gain feedback on which improvements should be made. In addition, this prototype will draw on my user research which revealed the lack of knowledge on daily journals and the potential benefits of it. My user research also helped clarify what exactly users want to record and prioritize when it comes to creating daily journals.
+Here is a low fidelity prototype of creating a daily journal.
+![LofiPrototype](https://github.com/taithnguyen/Assignment-06/blob/main/Screenshot40.png)
+See all low fidelity prototypes [here](https://github.com/taithnguyen/Assignment-06/blob/main/README.md).
+### High-fidelity prototype
+The main purpose of this design was simplicity and creating a certain mood that would create the intended effect on the user. Since journaling should be a calming and positive activity done normally at night, shades of blue and purple were used. It should be noted that any and all unnecessary features are removed in order to create a simplified process as well as replicate the inspiration of a manual journal. Thus, the two focuses for the design were keeping only necessary features and having a pleasant color that would keep the user comfortable.
 ### Optional evaluation and revision history 
 Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
 ### Pitch video 
