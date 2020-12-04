@@ -2,16 +2,15 @@
 ## Tai Nguyen
 
 ### Introduction
+This app is a way to simplify journaling as a digital process and have qualitative stats to show users about the potential benefits. It is a means of translating a typical journal or diary into a digital diary that provides feedback to users. 
 
 ### Design Statement
-What is the issue and Why do you think it is important to resolve that issue by your project? 
+The purpose of this app is to improve mental health of users through a simple, streamlined experience. Journaling is a proven method to improve mental health and doing so daily can have profound effects. In these uncertain times, this digital journaling app can act as a way to clear thoughts and keep track of your own mental health. 
 
 ### Competitor analysis:
 #### Heuristic Evalution
 This is a heuristic analysis of journal/self care tracking apps through the lens of middle aged women. This will be done by assessing two mobile apps, Jour and Tangerine and comment on what has been done well and what aspects can be improved upon. My overall project that builds off this analysis will be the creation of a simple, easy to use journaling/tracking app that improves mental health and productivity for middle aged women. [Read more…](https://github.com/taithnguyen/Assignment-01/blob/main/README.md)
-Jour | Tangerine
--------------------------------------------|---------------------------------------------
-![Jour](Jour.png)  | ![Tangerine](Tangerine.png)
+
 <table>
 <tr>
 <td> <img src=”Jour.png” height=”300px”> </td>
@@ -28,9 +27,11 @@ The Tangerine mobile application is used as a self-care journaling app that help
 This project aims to support users in their psychological needs. More specifically, this project hopes to give users a reliable way to practice proper journaling and habit tracking in order to maintain health habits in terms of mental and physical activity. As a result of user research, I learned a lot about my own reasoning for creating this project as well as the user's more broad and holistic thoughts on the project as a whole. Some insights that I gleaned from the participant were the overall lack of knowledge about journaling and its potential mental and physical health benefits, the kinds of habits that general user's would like to track, and the potential gains that users predict from beginning journaling. [Read more…](https://github.com/taithnguyen/Assignment-04/blob/main/README.md)
 ### UX storytelling [persona+scenario, assignment05]
 My project revolves around the effects of journaling on mental health of users. However, to understand what kind of effects journaling can and should have on users' mental health, it is necesary to understand the user itself. Therefore, the purpose of UX storytelling in my project in particular is to get within the mind of the user and understand how they may think and feel about certain aspects of journaling and the resulting effects. It also gives an idea for me to understand how to make journaling easiest and most effective for the targeting users. Below, I have shown an example of a persona, empathy map, and journey map for the task of creating a daily journal.
-![Persona](https://github.com/taithnguyen/Assignment-05/blob/main/Screenshot23.png)
-![Empathy Map](https://github.com/taithnguyen/Assignment-05/blob/main/Screenshot24.png)
-![Journey Map](https://github.com/taithnguyen/Assignment-05/blob/main/Screenshot25.png)
+
+<img src=”Screenshot23.png” height=”300px”> 
+<img src=”Screenshot24.png” height=”300px”> 
+<img src=”Screenshot25.png” height=”300px”> 
+
 See all personas, empathy maps, and journey maps [here](https://github.com/taithnguyen/Assignment-05/blob/main/README.md).
 
 ### Low-fidelity prototype 
