@@ -11,12 +11,10 @@ The purpose of this app is to improve mental health of users through a simple, s
 #### Heuristic Evalution
 This is a heuristic analysis of journal/self care tracking apps through the lens of middle aged women. This will be done by assessing two mobile apps, Jour and Tangerine and comment on what has been done well and what aspects can be improved upon. My overall project that builds off this analysis will be the creation of a simple, easy to use journaling/tracking app that improves mental health and productivity for middle aged women. [Read more…](https://github.com/taithnguyen/Assignment-01/blob/main/README.md)
 
-<table>
-<tr>
-<td> <img src=”Jour.png” height=”300px”> </td>
-<td> <img src=”Tangerine.png” height=”300px”> </td>
-</tr>
-</table>
+medlinePlus | CDC.gov 
+-------------------------------------------|---------------------------------------------
+<img src=”Jour.png” height=”300px”>  | <img src=”tangerine.png” height=”300px”> 
+
 
 #### Usability Testing
 The Tangerine mobile application is used as a self-care journaling app that helps users keep track of their moods, habits, and thoughts. While the app is mostly simple and straightforward, there were a few usability issues discovered from the heuristic analysis previously done. First, the app seems to be geared towards a younger generation as well as a less formal setting due to some of the vocabulary and emoji icons used. This leads to a mismatch between the app system and real world concepts. Second, there is a lack of direction on the app that could hinder users' effectiveness of self-journaling. This is an issue of visibility of system status. Third, there is extraneous and unclear information regarding some of the important statistics (ie: the graphs or previous moods journaled). This is an issue of aesthetic and minimalist design where not all important information is easily accessible and unimportant information hidden. Thus, I will be conducting this usability test in order to gain user feedback on these 3 potential user issues by completing 3 tasks related to these topics. The goal of this process is to improve the user experience of this app as well as information on how to best optimize self-care journaling apps. [Read more…](https://github.com/taithnguyen/Assignment02/blob/main/README.md)
