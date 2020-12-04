@@ -13,7 +13,7 @@ This is a heuristic analysis of journal/self care tracking apps through the lens
 
 medlinePlus | CDC.gov 
 -------------------------------------------|---------------------------------------------
-<img src=”https://github.com/taithnguyen/Assignment-08/blob/main/Jour.png” height=”300px”>  | <img src=”https://github.com/taithnguyen/Assignment-08/blob/main/Tangerine.png” height=”300px”> 
+<img src=”https://github.com/taithnguyen/Assignment-01/blob/main/Jour.png” height=”300px”>  | <img src=”https://github.com/taithnguyen/Assignment-01/blob/main/Tangerine.png” height=”300px”> 
 
 
 #### Usability Testing
