@@ -11,7 +11,7 @@ What is the issue and Why do you think it is important to resolve that issue by 
 This is a heuristic analysis of journal/self care tracking apps through the lens of middle aged women. This will be done by assessing two mobile apps, Jour and Tangerine and comment on what has been done well and what aspects can be improved upon. My overall project that builds off this analysis will be the creation of a simple, easy to use journaling/tracking app that improves mental health and productivity for middle aged women. [Read more…](https://github.com/taithnguyen/Assignment-01/blob/main/README.md)
 Jour | Tangerine
 -------------------------------------------|---------------------------------------------
-![Jour](https://github.com/taithnguyen/Assignment-01/blob/main/Jour.png)  | ![Tangerine](https://github.com/taithnguyen/Assignment-01/blob/main/Tangerine.png)
+![Jour](Jour.png)  | ![Tangerine](Tangerine.png)
 <table>
 <tr>
 <td> <img src=”https://github.com/taithnguyen/Assignment-01/blob/main/Jour.png” height=”300px”> </td>
