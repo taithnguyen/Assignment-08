@@ -10,10 +10,9 @@ The purpose of this app is to improve mental health of users through a simple, s
 ### Competitor analysis:
 #### Heuristic Evalution
 This is a heuristic analysis of journal/self care tracking apps through the lens of middle aged women. This will be done by assessing two mobile apps, Jour and Tangerine and comment on what has been done well and what aspects can be improved upon. My overall project that builds off this analysis will be the creation of a simple, easy to use journaling/tracking app that improves mental health and productivity for middle aged women. [Read more…](https://github.com/taithnguyen/Assignment-01/blob/main/README.md)
-
-medlinePlus | CDC.gov 
+Jour | Tangerine
 -------------------------------------------|---------------------------------------------
-![Jour](Jour.png)  | <img src=”https://github.com/taithnguyen/Assignment-01/blob/main/Tangerine.png” height=”300px”> 
+![Jour](Jour.png)  | ![Tangerine](Tangerine.png) 
 
 
 #### Usability Testing
