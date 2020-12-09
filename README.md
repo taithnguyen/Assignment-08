@@ -48,5 +48,8 @@ Revisions: A note of a few of the revisions made after the impression test and c
 
 Full evaluation/impression test/cognitive walkthrough/accessibility test can be found [here](https://github.com/taithnguyen/Assignment-07/blob/main/README.md).
 ### Pitch video 
+
+<iframe src="https://drive.google.com/file/d/1-ah5cbTaydk9igGDjv8rNk0bo0q_4HCN/preview" width="640" height="480"></iframe>
+
 ### Conclusion: what did you learn throughout the process?
 Throughout this entire process, I learned a lot about the design process as a whole. I had created high fidelity prototypes before but had very little experience with the rest of the process. Viewing the process through the lens of accessibility for users and embracing their thoughts and needs was a transformative process for me. Creating surveys, usability tests, personas, and empathy maps are skills that I will utilize in the future. Some key takeaways are the importance of listening to a variety of users from the start, considering accessibility factors such as color contrast and heuristics, and designing with certain personas in mind. 
